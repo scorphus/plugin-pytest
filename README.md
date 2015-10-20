@@ -27,5 +27,3 @@ $ omf install https://github.com/scorphus/plugin-pytest
 ## License
 
 [MIT](http://opensource.org/licenses/MIT) © [scorphus](https://github.com/scorphus)
-
-
